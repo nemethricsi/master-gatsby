@@ -8,6 +8,9 @@ export default function Nav() {
         <li>
           <Link to="/">Home</Link>
           <Link to="/beers">Beers</Link>
+          <Link to="/order">Order</Link>
+          <Link to="/pizzas">Pizzas</Link>
+          <Link to="/slicemasters">Slicemasters</Link>
         </li>
       </ul>
     </nav>
